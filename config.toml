@@ -8,3 +8,4 @@ parallel-jobs = 1
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+arch = "arm64-v8a"
